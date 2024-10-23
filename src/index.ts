@@ -1,7 +1,7 @@
 // import classes
 import inquirer from "inquirer";
-import pg from 'pg'
-import { pool } from './connection.js'
+import pg from 'pg';
+import { pool } from './connection.js';
 import Prompt from "inquirer/lib/prompts/base.js";
 
 const client = await pool.connect();

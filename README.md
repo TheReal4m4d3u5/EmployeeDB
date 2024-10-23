@@ -100,3 +100,6 @@ https://drive.google.com/file/d/13kgPZXS9dBppkTc-q-IRs1U-FH64zC2E/view?usp=drive
   averyajacobson@gmail.com 
 
 
+  ## Notes
+  Chris a tutor from the university of minnesota helped me with my querry statements 
+  
